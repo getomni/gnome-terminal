@@ -2,12 +2,12 @@
   <br>
   <img src="https://storage.googleapis.com/golden-wind/github/omni/omni.png" alt="Omni Logo" width="100">
   <br>
-  Omni for <a href="https://website-link.com">X</a>
+  Omni for <a href="https://wiki.gnome.org/Apps/Terminal">Gnome Terminal</a>
   <br>
 </h1>
 
 <p align="center">
-  <strong>Dark theme for <a href="https://website-link.com">X</a></strong>
+  <strong>Dark theme for <a href="https://wiki.gnome.org/Apps/Terminal">Gnome Terminal</a></strong>
 </p>
 
 <p align="center">
@@ -32,11 +32,11 @@ All instructions can be found at [INSTALL.md](./INSTALL.md).
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/getomni/template/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/getomni/gnome-terminal/graphs/contributors).
 
-| [![João Pedro](https://github.com/jpedroschmitz.png?size=100)](https://github.com/jpedroschmitz) |
+| [![Gustavo Juneo](https://github.com/gustavojuneo.png?size=100)](https://github.com/gustavojuneo) |
 | ------------------------------------------------------------------------------------------------ |
-| [João Pedro](https://github.com/jpedroschmitz)                                                   |
+| [Gustavo Juneo](https://github.com/gustavojuneo)                                                   |
 
 ## License
 
