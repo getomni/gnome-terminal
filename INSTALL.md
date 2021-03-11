@@ -4,7 +4,7 @@
 
 If you are a git user, you can install the theme by cloning the repo:
 
-  $ git clone https://github.com/dracula/gnome-terminal
+    $ git clone https://github.com/dracula/gnome-terminal
 
 #### Install manually
 
@@ -14,13 +14,13 @@ Download using the [GitHub .zip download](https://github.com/getomni/gnome-termi
 
 1. You will need the `dconf` command:
 
-  ```bash 
-  $ sudo apt-get install dconf-cli 
-  ```
+    ```bash 
+    $ sudo apt-get install dconf-cli 
+    ```
 
 2. Then you can run the installation script:
 
-  ```bash
-  $ cd gnome-terminal
-  $ ./install.sh
-  ```
+    ```bash
+    $ cd gnome-terminal
+    $ ./install.sh
+    ```
