@@ -4,7 +4,7 @@
 
 If you are a git user, you can install the theme by cloning the repo:
 
-    $ git clone https://github.com/gustavojuneo/gnome-terminal/archive/main.zip
+    $ git clone https://github.com/getomni/gnome-terminal.git
 
 #### Install manually
 
