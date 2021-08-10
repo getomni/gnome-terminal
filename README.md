@@ -34,9 +34,9 @@ All instructions can be found at [INSTALL.md](./INSTALL.md).
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/getomni/gnome-terminal/graphs/contributors).
 
-| [![Gustavo Juneo](https://github.com/gustavojuneo.png?size=100)](https://github.com/gustavojuneo) |
-| ------------------------------------------------------------------------------------------------ |
-| [Gustavo Juneo](https://github.com/gustavojuneo)                                                   |
+| [![Gustavo Juneo](https://github.com/gustavojuneo.png?size=100)](https://github.com/gustavojuneo) | [![Jonatan Frederico](https://github.com/jonatan966.png?size=100)](https://github.com/jonatan966) |
+| ----------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| [Gustavo Juneo](https://github.com/gustavojuneo)                                                   | [Jonatan Frederico](https://github.com/jonatan966)
 
 ## License
 
